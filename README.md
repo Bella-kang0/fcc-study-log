@@ -7,3 +7,4 @@ Day 4 - HTML : audio/video, SVG path, iframe embed
 Day 5 - HTML : links, anchors and image paths
 Day 6 - HTML : Build a Survey Form
 Day 7 - HTML : Accessibility
+Day 8 - Learning Basic of Computers
