@@ -9,3 +9,4 @@ Day 6 - HTML : Build a Survey Form
 Day 7 - HTML : Accessibility
 Day 8 - Learning Basic of Computers
 Day 9 - CSS : What is CSS?
+Day 10 - CSS : Build a TODO List
